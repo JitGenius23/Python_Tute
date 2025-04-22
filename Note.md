@@ -64,3 +64,7 @@ It is used for: 1. web development(server-side) 2. software development 3. mathm
 ## Dictionary
 
     -> Dictionary is mutable
+
+## Set
+
+    -> Set holds unique values
