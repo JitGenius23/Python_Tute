@@ -49,6 +49,35 @@ It is used for: 1. web development(server-side) 2. software development 3. mathm
 4. Python has a vast number of libraries and tools that make the development process easier.
 5. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.
 
+# OBJECT ORIENTED PROGRAMMING
+
+-> An object is any entity that has attributes and behaviors.
+
+    1. attributes - name, age, color, etc.
+    2. behavior - dancing, singing, etc.
+
+-> A class is a blueprint for that object.
+
+## INHEIRTANCE
+-> Inheritance is a way of creating a new class for using details of an 
+existing class without modifying it.
+-> The newly formed class is a derived class (or child class). The existing class is a base class (or parent class).
+
+## ENCAPSULATION
+-> Encapsulation is one of the key features of oop. Encapsulation refers
+to the bundling of attributes and methods inside a single class.
+-> It prevents outer classes from accessing and changing attributes and methods of a class. This also helps to achieve DATA HIDING.
+-> In python, we denote private attributes using underscore as the prefix i.e single '_' or double '__'.
+
+## POLYMORPHISM
+-> It means more than one form. This is, the same entity (method or operator or object) can perform different operations in different scenarios.
+
+# [KEY POINTS]
+1. OOP makes the program easy to understand as well as efficient.
+2. Since the class is sharable, the code can be reused. 
+3. Data is safe and secure with data abstraction.
+4. Polymorphism allows the same interface for different objects, so programmers can write efficient code.
+
 ## String
 
     -> String in python is immutable
